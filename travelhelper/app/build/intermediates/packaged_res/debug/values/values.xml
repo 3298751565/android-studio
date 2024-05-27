@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_concel">取消</string>
+    <string name="action_register">注册</string>
+    <string name="action_resetting">重置</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="app_name">旅游助手</string>
+    <string name="prompt_email">输入用户名</string>
+    <string name="prompt_password">输入密码</string>
+    <string name="prompt_password_again">确认密码</string>
+    <string name="prompt_setpassword">输入密码</string>
+    <string name="prompt_username">输入用户名</string>
+    <style name="Base.Theme.Travelhelper" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="DetailTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">#FFF</item>
+        <item name="colorPrimaryDark">#FFF</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme.DataStorage" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme.Travelhelper" parent="Base.Theme.Travelhelper"/>
+    <style name="vLine">
+        <item name="android:layout_width">2dp</item>
+        <item name="android:layout_height">18dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">#7D978B</item>
+    </style>
+</resources>

@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir_end.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir_end.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir11.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir11.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_activity_update_password.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\activity_update_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_cc.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_activity_route.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\activity_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_amap_bus.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\amap_bus.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_succeeded.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\succeeded.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_amap_man.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\amap_man.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_activity_route_detail.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\activity_route_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_ic_black_24dp.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\ic_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir8.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir8.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_start.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir15.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir15.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir_start.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir_start.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir3.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir3.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir10.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir10.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir1.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir1.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_gps_point.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\gps_point.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_icon_route.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\icon_route.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_activity_map_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\activity_map_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_amap_through.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\amap_through.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir4.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir4.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir7.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir7.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir14.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir14.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_item_segment.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\item_segment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_et_bg.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\et_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_down.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_end.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\end.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir2.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_item_segment_ex.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\item_segment_ex.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_amap_start.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\amap_start.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir_station.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir_station.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir13.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir13.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_amap_end.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\amap_end.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_activity_zhujian.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\activity_zhujian.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir5.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir5.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-hdpi_arrow_right_blue.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-hdpi\\arrow_right_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_amap_ride.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\amap_ride.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_up_password.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\up_password.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_rg.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\rg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir12.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir12.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_up.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir6.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir6.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_amap_car.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\amap_car.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_icon_favorite_red.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\icon_favorite_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.travelhelper.app-merged_res-32:/layout_activity_route.xml.flat",
+        "source": "com.example.travelhelper.app-main-34:/layout/activity_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir16.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir16.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_dir9.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\dir9.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_head.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\head.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-merged_res-32:\\drawable_bg2.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.travelhelper.app-main-34:\\drawable\\bg2.png"
+    }
+]
