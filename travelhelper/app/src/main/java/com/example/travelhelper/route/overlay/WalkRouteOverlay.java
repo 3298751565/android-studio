@@ -14,7 +14,7 @@ import com.amap.api.services.route.WalkStep;
 import android.content.Context;
 
 /**
- * 步行路线图层类。在高德地图API里，如果要显示步行路线规划，可以用此类来创建步行路线图层。如不满足需求，也可以自己创建自定义的步行路线图层。
+ * 步行路线图层类。
  * @since V2.1.0
  */
 public class WalkRouteOverlay extends RouteOverlay {

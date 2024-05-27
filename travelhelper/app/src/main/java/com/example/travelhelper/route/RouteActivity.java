@@ -60,7 +60,6 @@ import static com.example.travelhelper.route.util.MapUtil.convertToLatLonPoint;
 
 /**
  * 路线规划
- *
  */
 public class RouteActivity extends AppCompatActivity implements
         AMapLocationListener, LocationSource, AMap.OnMapClickListener,

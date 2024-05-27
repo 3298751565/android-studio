@@ -16,7 +16,6 @@ import java.util.List;
 
 /**
  * 骑行段列表适配器
- *
  */
 public class RideSegmentListAdapter extends BaseQuickAdapter<RideStep, BaseViewHolder> {
     private List<RideStep> mItemList;

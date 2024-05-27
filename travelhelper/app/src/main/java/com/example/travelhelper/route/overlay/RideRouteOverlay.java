@@ -17,7 +17,7 @@ import com.example.travelhelper.route.util.MapUtil;
 import java.util.List;
 
 /**
- * 骑行路线图层类。在高德地图API里，如果要显示步行路线规划，可以用此类来创建骑行路线图层。如不满足需求，也可以自己创建自定义的骑行路线图层。
+ * 骑行路线图层类。
  * @since V3.5.0
  */
 public class RideRouteOverlay extends RouteOverlay {

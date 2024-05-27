@@ -16,9 +16,6 @@ import java.util.List;
 
 /**
  * 步行段列表适配器
- *
- * @author llw
- * @date 2021/2/23 9:31
  */
 public class WalkSegmentListAdapter extends BaseQuickAdapter<WalkStep, BaseViewHolder> {
 

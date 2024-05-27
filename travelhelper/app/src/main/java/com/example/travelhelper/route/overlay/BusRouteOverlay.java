@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 公交路线图层类。在高德地图API里，如果需要显示公交路线，可以用此类来创建公交路线图层。如不满足需求，也可以自己创建自定义的公交路线图层。
+ * 公交路线图层类。
  * @since V2.1.0
  */
 public class BusRouteOverlay extends RouteOverlay {

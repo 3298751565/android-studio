@@ -18,9 +18,6 @@ import java.util.List;
 
 /**
  * 公交段列表适配器
- *
- * @author llw
- * @date 2021/2/23 14:37
  */
 public class BusSegmentListAdapter extends BaseQuickAdapter<SchemeBusStep, BaseViewHolder> {
     private List<SchemeBusStep> mBusStepList;

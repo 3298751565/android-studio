@@ -16,9 +16,6 @@ import java.util.List;
 
 /**
  * 驾车段列表适配器
- *
- * @author llw
- * @date 2021/2/23 11:18
  */
 public class DriveSegmentListAdapter extends BaseQuickAdapter<DriveStep, BaseViewHolder> {
     private List<DriveStep> mItemList;
